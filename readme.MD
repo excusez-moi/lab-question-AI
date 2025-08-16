@@ -1,5 +1,4 @@
-# AI-Powered Lab Question Generation System
-
+# ECO-Exam AI
 ## 1. The Problem
 
 In academic settings, particularly in lab-based courses, a recurring issue arises when all students receive the same question. This often leads to reduced learning efficiency, increased chances of plagiarism, and difficulty in conducting fair, unbiased evaluations. Traditional methods of creating varied questions are time-consuming and often result in inconsistent difficulty levels.
